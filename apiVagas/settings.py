@@ -80,7 +80,7 @@ DATABASES = {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'apiVagasDjango',
+        'NAME': 'apiVagasDjango1N',
         'USER': 'root',
         'PASSWORD': 'admin',
         'HOST': 'localhost',
